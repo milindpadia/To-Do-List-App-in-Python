@@ -1,1 +1,1 @@
-# To-Do-List-App-in-Python
+A basic to-do list application you can run in your terminal.
